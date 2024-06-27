@@ -41,48 +41,48 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyAtwu_cojPHhbI8VYnVgINRuolwcbDXEQY',
-    appId: '1:670966326779:web:a5e6e7e12d1eb085c6975e',
-    messagingSenderId: '670966326779',
-    projectId: 'cmsc23-project-46270',
-    authDomain: 'cmsc23-project-46270.firebaseapp.com',
-    storageBucket: 'cmsc23-project-46270.appspot.com',
-    measurementId: 'G-CJNLKEDS3M',
+    apiKey: 'AIzaSyArt6bLXlB1xJwy5uWO9O18q-Cq-NiJmtk',
+    appId: '1:561965416035:web:edd38cc323221760230256',
+    messagingSenderId: '561965416035',
+    projectId: 'elbigayan',
+    authDomain: 'elbigayan.firebaseapp.com',
+    storageBucket: 'elbigayan.appspot.com',
+    measurementId: 'G-EM14BCGKK5',
   );
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyBfRUf_S1PbDhFFhLYKIUP7bADdVr6JORw',
-    appId: '1:670966326779:android:9f6d1aa10b9154edc6975e',
-    messagingSenderId: '670966326779',
-    projectId: 'cmsc23-project-46270',
-    storageBucket: 'cmsc23-project-46270.appspot.com',
+    apiKey: 'AIzaSyB3CVTKdx-4-ISB7bLmyncpCZSZKF0NC40',
+    appId: '1:561965416035:android:b5f8f7e499ca0a44230256',
+    messagingSenderId: '561965416035',
+    projectId: 'elbigayan',
+    storageBucket: 'elbigayan.appspot.com',
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyDo8FX0UgWxOakFjZPsj5nyLKiHGmAklIc',
-    appId: '1:670966326779:ios:983f955c52744d5fc6975e',
-    messagingSenderId: '670966326779',
-    projectId: 'cmsc23-project-46270',
-    storageBucket: 'cmsc23-project-46270.appspot.com',
+    apiKey: 'AIzaSyC_HtCjauxCSkS1dCKvQ3Fj-wVOh53wcLc',
+    appId: '1:561965416035:ios:6daafcf65eca3070230256',
+    messagingSenderId: '561965416035',
+    projectId: 'elbigayan',
+    storageBucket: 'elbigayan.appspot.com',
     iosBundleId: 'com.example.elbigayan',
   );
 
   static const FirebaseOptions macos = FirebaseOptions(
-    apiKey: 'AIzaSyDo8FX0UgWxOakFjZPsj5nyLKiHGmAklIc',
-    appId: '1:670966326779:ios:983f955c52744d5fc6975e',
-    messagingSenderId: '670966326779',
-    projectId: 'cmsc23-project-46270',
-    storageBucket: 'cmsc23-project-46270.appspot.com',
+    apiKey: 'AIzaSyC_HtCjauxCSkS1dCKvQ3Fj-wVOh53wcLc',
+    appId: '1:561965416035:ios:6daafcf65eca3070230256',
+    messagingSenderId: '561965416035',
+    projectId: 'elbigayan',
+    storageBucket: 'elbigayan.appspot.com',
     iosBundleId: 'com.example.elbigayan',
   );
 
   static const FirebaseOptions windows = FirebaseOptions(
-    apiKey: 'AIzaSyAtwu_cojPHhbI8VYnVgINRuolwcbDXEQY',
-    appId: '1:670966326779:web:eb4076ca5602115cc6975e',
-    messagingSenderId: '670966326779',
-    projectId: 'cmsc23-project-46270',
-    authDomain: 'cmsc23-project-46270.firebaseapp.com',
-    storageBucket: 'cmsc23-project-46270.appspot.com',
-    measurementId: 'G-2MXMJNKKFC',
+    apiKey: 'AIzaSyArt6bLXlB1xJwy5uWO9O18q-Cq-NiJmtk',
+    appId: '1:561965416035:web:ea8ac366b26236e1230256',
+    messagingSenderId: '561965416035',
+    projectId: 'elbigayan',
+    authDomain: 'elbigayan.firebaseapp.com',
+    storageBucket: 'elbigayan.appspot.com',
+    measurementId: 'G-MQJWZVZ9D1',
   );
 }
